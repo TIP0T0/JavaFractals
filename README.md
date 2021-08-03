@@ -8,4 +8,4 @@
 
 - Сохранение полученного изображения
 
-<img src="https://user-images.githubusercontent.com/22643606/128032397-8f40395d-a42c-4768-9388-efe329dba9de.png" width="400" /> <img src="https://user-images.githubusercontent.com/22643606/128032628-43d69d17-8b4a-4676-be5e-aae655f35a23.png" width="600" />
+<img src="https://user-images.githubusercontent.com/22643606/128032397-8f40395d-a42c-4768-9388-efe329dba9de.png" width="300" /> <img src="https://user-images.githubusercontent.com/22643606/128032628-43d69d17-8b4a-4676-be5e-aae655f35a23.png" width="650" />
