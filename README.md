@@ -3,5 +3,5 @@
 
 # Возможности пользователя
 - Увеличение изображения фрактала нажатием на изображение. Увеличивается не сама картинка, цвета пикселей перерасчитываются и изображение обновляется в большем масштабе.
-- ![image](https://user-images.githubusercontent.com/22643606/128031671-ba18b983-27ab-4901-9ce9-79fb53c6875f.png)
-![image](https://user-images.githubusercontent.com/22643606/128031759-07c44afc-140d-406d-8eca-2e47b29e9f0c.png)
+![image](https://user-images.githubusercontent.com/22643606/128031864-c18b6664-fe47-4f6f-bd3b-b93cfa0fb140.png)
+![image](https://user-images.githubusercontent.com/22643606/128031933-8c39077e-617e-4057-a343-1c832d166436.png)
