@@ -1,0 +1,15 @@
+Lab6/JImageDisplay.java
+ Lab6.JImageDisplay
+Lab6/Mandelbrot.java
+ Lab6.Mandelbrot
+Lab6/FractalGenerator.java
+ Lab6.FractalGenerator
+Lab6/BurningShip.java
+ Lab6.BurningShip
+Lab6/Tricorn.java
+ Lab6.Tricorn
+Lab6/FractalExplorer.java
+ Lab6.FractalExplorer
+ Lab6.FractalExplorer$ButtonActionListener
+ Lab6.FractalExplorer$ClickMouseAdapter
+ Lab6.FractalExplorer$FractalWorker
